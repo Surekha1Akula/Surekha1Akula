@@ -51,6 +51,7 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)
 
 🧠 AI/ML Domains:
+
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-333?style=flat&logo=openai)  
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333?style=flat&logo=scikit-learn)  
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333?style=flat&logo=tensorflow)  
@@ -58,6 +59,7 @@
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-333?style=flat&logo=opencv)
 
 🛠 Tools:
+
 ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)  
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)  
