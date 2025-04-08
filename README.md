@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Surekha Akula -->
 <p align="center">
-  <img src="https://github.com/SUREKHA1AKULA/SUREKHA1AKULA/blob/main/banner.png" alt="Surekha Akula Banner" />
+  <img src="https://raw.githubusercontent.com/Surekha1Akula/Surekha1Akula/main/banner.png" alt="Surekha Akula Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Surekha</h1>
 <h3 align="center">Aspiring ML/AI Engineer</h3>
