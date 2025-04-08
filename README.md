@@ -36,9 +36,9 @@
 📁 _Pinned repos will be updated gradually — follow to stay in the loop!_
 
 ---
-### 💻 Tech Stack
+### 💻Tech Stack
 
-**Languages & Libraries:**  
+💻 Languages & Libraries:  
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
 ![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)  
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)  
@@ -50,14 +50,14 @@
 ![Excel](https://img.shields.io/badge/-Excel-333?style=flat&logo=microsoft-excel)  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)
 
-### 🧠 AI/ML Domains:
+🧠 AI/ML Domains:
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-333?style=flat&logo=openai)  
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333?style=flat&logo=scikit-learn)  
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333?style=flat&logo=tensorflow)  
 ![NLP](https://img.shields.io/badge/-NLP-333?style=flat&logo=spacy)  
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-333?style=flat&logo=opencv)
 
-**Tools:**  
+🛠 Tools:
 ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)  
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)  
