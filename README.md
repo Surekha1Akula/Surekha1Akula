@@ -36,65 +36,32 @@
 📁 _Pinned repos will be updated gradually — follow to stay in the loop!_
 
 ---
-<h2>💻 Tech Stack</h2>
+### 💻 Tech Stack
 
-<table>
-  <tr>
-    <td><strong>Languages & Libraries</strong></td>
-    <td><strong>🧠 AI/ML Domains</strong></td>
-    <td><strong>Tools</strong></td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>Artificial Intelligence</td>
-    <td>VSCode</td>
-  </tr>
-  <tr>
-    <td>NumPy</td>
-    <td>Machine Learning</td>
-    <td>Git</td>
-  </tr>
-  <tr>
-    <td>Pandas</td>
-    <td>Deep Learning</td>
-    <td>Jupyter</td>
-  </tr>
-  <tr>
-    <td>Matplotlib</td>
-    <td>NLP</td>
-    <td>Google Colab</td>
-  </tr>
-  <tr>
-    <td>Seaborn</td>
-    <td>Computer Vision</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Scikit-Learn</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>TensorFlow</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>SQL</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Excel</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Power BI</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+**Languages & Libraries:**  
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)  
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=matplotlib)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-333?style=flat&logo=seaborn)  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikit-learn)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)  
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)  
+![Excel](https://img.shields.io/badge/-Excel-333?style=flat&logo=microsoft-excel)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)
+
+### 🧠 AI/ML Domains:
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-333?style=flat&logo=openai)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333?style=flat&logo=scikit-learn)  
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333?style=flat&logo=tensorflow)  
+![NLP](https://img.shields.io/badge/-NLP-333?style=flat&logo=spacy)  
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-333?style=flat&logo=opencv)
+
+**Tools:**  
+![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)  
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)  
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-333?style=flat&logo=googlecolab)
 ---
 
 ### 📚 Keep Learning
