@@ -2,8 +2,8 @@
 <p align="center">
   <img src="banner.png" alt="Surekha Akula Banner" width="100%" height="350"/>
 </p>
-<h1 align="center">Hi 👋, I'm Surekha</h1>
-<h3 align="center">Aspiring ML/AI Engineer</h3>
+<h1 align="left">Hi 👋, I'm Surekha</h1>
+<h3 align="left">Aspiring ML/AI Engineer</h3>
 
 ---
 
