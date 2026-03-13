@@ -1,114 +1,207 @@
-<!-- GitHub Profile README for Surekha Akula -->
+<!-- BANNER -->
 <p align="center">
-  <img src="banner.png" alt="Surekha Akula Banner" width="100%" height="350"/>
+  <img src="https://github.com/Surekha1Akula/Surekha1Akula/raw/main/banner.png" alt="Surekha Akula Banner" width="100%"/>
 </p>
-<h1 align="left">Hi 👋, I'm Surekha</h1>
-<h3 align="left">Aspiring ML/AI Engineer</h3>
+
+<h1 align="center">Hey, I'm Surekha 👋</h1>
+<h3 align="center">AI Engineer · Agentic Systems · LLM Orchestration</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/surekha-akula/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:surekha2393@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Surekha1Akula"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-🎯 I’m on a mission to transition into top tech roles in **Machine Learning, AI, and Data Science** — and I’m building every day to get there.
+## 🤖 About Me
 
-🧠 Passionate about algorithms, math, and building intelligent systems that solve real-world problems.
+I build **production-grade agentic AI systems** — autonomous agents that self-heal CI/CD pipelines, process real-time gestures into AI workflows, query databases through natural language, and negotiate between LLMs.
 
-🌱 Currently learning everything from **Python → ML Algorithms → Deep Learning → System Design**.
+Every system I ship comes with **full test coverage, observability stack, Docker deployment, and measurable outcomes.**
 
-💪 Staying consistent with daily **DSA**, **hands-on projects**, and **interview preparation**.
+Backed by **4+ years of execution discipline at Amazon** — I bring structured problem-solving and a bias for measurable results to every system I build.
+
+> 🎯 Open to ** AI Engineer / Agentic AI Engineer** roles — Remote or Hybrid
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Projects
 
-> 🛠 Projects that showcase my problem-solving, system design, and machine learning depth
+---
+
+### 🤖 Agentic AI Systems
+
+| Project | Tech Stack | Highlights |
+|--------|------------|------------|
+| 🔧 **Self-Healing DevOps Agent** | LangGraph · Claude Sonnet 4.6 · GPT-4o · GitHub Actions · FastAPI · Docker · LangSmith | 9-node ReAct loop · ~70% autonomous fix rate · MTTR < 5 mins · 51 tests |
+| 🔗 **MCP Data Connector Agent** | LangGraph · MCP · Claude Sonnet 4.6 · Pinecone · Airflow · Chainlit · LangSmith | 12-node agent · 3 MCP tool servers · NL→SQL→Chart→Slack · 92 tests |
+| 🖐️ **Gesture Commander Agent** | MediaPipe · OpenCV · LangGraph · ChromaDB · Whisper · FastAPI · Streamlit | 22 gestures · 60 FPS · 4-layer reliability · HITL gate · 47 tests |
+| 🤝 **AI-to-AI Negotiation System** | LangGraph · Claude Sonnet 4.6 · GPT-4o · Pydantic · SQLite · Streamlit · LangSmith | 5 game-theoretic strategies · Deal @ Round 4 · utility ≥ 0.60 · 54 tests |
+
+---
+
+### 🧠 AI Projects
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| ⚡ Reflex Button Tap Tracker | Python, Tkinter | A simple GUI-based tapping game where users click on multiple red buttons scattered across the screen. Each tap increments a counter, and the final score is displayed on demand. |
-| 🧠 MindReader (1–100 Logic Game) | Python, Tkinter | A fun number guessing game based on logical deduction within a defined range. |
-| 🎮 HangMan (Fruit Edition) | Python | Classic Hangman game with a twist — focuses on guessing fruit names. |
-| 🧭 MazePathFinder_RatStyle | Python, Backtracking, Matplotlib | Visualizes all possible paths a rat can take in a maze using backtracking algorithm. |
-| 👁️ Face Recognition using OpenCV | Python, OpenCV | Implements basic face detection and recognition from webcam input. |
-| 📰 Fake News Detection using ML | Python, ML, NLP, Scikit-learn | Identifies fake vs real news articles using NLP preprocessing, vectorization, and machine learning classifiers. |
-| ✋ Hand Gesture Recognition | Python, OpenCV, numpy, math | Classifies hand gestures in real time. Useful for touchless interface design and CV apps. |
-| 🎤 Speech Emotion Analysis using NLP | Python, Librosa, Scikit-learn | Detects emotional tone in speech using audio signal processing and ML. |
-
-➡️ _[More projects coming soon — currently building end-to-end ML & DL solutions for my portfolio]_  
-📁 _Pinned repos will be updated gradually — follow to stay in the loop!_
-
----
-### 💻Tech Stack
-
-💻 Languages & Libraries:  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
-![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)  
-![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=matplotlib)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-333?style=flat&logo=seaborn)  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikit-learn)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)  
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)  
-![Excel](https://img.shields.io/badge/-Excel-333?style=flat&logo=microsoft-excel)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=powerbi)
-
-🧠 AI/ML Domains:
-
-![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-333?style=flat&logo=openai)  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333?style=flat&logo=scikit-learn)  
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333?style=flat&logo=tensorflow)  
-![NLP](https://img.shields.io/badge/-NLP-333?style=flat&logo=spacy)  
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-333?style=flat&logo=opencv)
-
-🛠 Tools:
-
-![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)  
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)  
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-333?style=flat&logo=googlecolab)
----
-
-### 📚 Keep Learning
-
-- 📖 **Advanced DSA in Python**
-- 🤖 **ML Algorithms** + Projects with Scikit-learn
-- 🧠 **Deep Learning** with TensorFlow & PyTorch
-- 🧮 **Mathematics for ML/AI**
-- 🧩 **System Design for ML** 
+| ✋ AI Hand Gesture Recognition | Python · OpenCV · MediaPipe | Real-time hand gesture classification for touchless interface design |
+| 🗺️ Multi-Environment AI Optimal Path System | Python · AI · Pathfinding | Multi-environment optimal path planning using AI algorithms |
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Machine Learning Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 📈 YouTube Trending Videos Analysis | Python · ML · Pandas · Matplotlib | Analyzes trending video patterns and predicts viral content metrics |
+| 📄 Resume Ranker Builder | Python · ML · NLP · Scikit-learn | Ranks resumes based on job description relevance using ML |
+| 🏠 House Price Prediction | Python · Scikit-learn · Regression | Predicts house prices using regression models and feature engineering |
+| 👥 Customer Segmentation Clustering | Python · K-Means · Pandas · Seaborn | Segments customers using unsupervised clustering algorithms |
+| 💳 Loan Default Prediction | Python · ML · Scikit-learn | Predicts loan default risk using classification models |
+
+---
+
+### 🧠 Deep Learning Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🎯 Object Detection | Python · TensorFlow · OpenCV | Real-time object detection using deep learning models |
+| 🎤 Speech Emotion Detection | Python · Librosa · TensorFlow | Detects emotional tone in speech using audio signal processing |
+| ✍️ RNN Text Generator | Python · TensorFlow · RNN | Generates text sequences using recurrent neural networks |
+| 🎨 GAN Image Generation | Python · TensorFlow · GANs | Generates synthetic images using Generative Adversarial Networks |
+
+---
+
+### 👁️ Computer Vision Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🏛️ Google Landmark Detection | Python · OpenCV · Deep Learning | Detects and classifies famous landmarks from images |
+| 🔢 Digit Recognition | Python · TensorFlow · CNN | Recognizes handwritten digits using convolutional neural networks |
+| 👤 Face Recognition | Python · OpenCV · ML | Detects and recognizes faces from webcam input in real-time |
+
+---
+
+### 💬 NLP Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| ⚖️ LegalMind AI | Python · NLP · Transformers | AI-powered legal document analysis and query system |
+| 🤖 Rule-Based Chatbot | Python · NLP | Intelligent rule-based conversational agent |
+| 📱 Sentiment Analysis Twitter | Python · NLP · Scikit-learn | Real-time Twitter sentiment analysis using NLP techniques |
+| 📰 Fake News Detection | Python · NLP · Scikit-learn · ML | Identifies fake vs real news articles using ML classifiers |
+
+---
+
+### 🐍 Python — Advanced Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 💰 Expense Tracker | Python | Full-featured personal expense tracking and reporting tool |
+| 🔐 Password Manager | Python | Secure password storage and management system |
+| 🧾 Invoice Generator (PDF) | Python · PDF | Automated PDF invoice generation system |
+| 🗂️ Mini Git System (Version Tracker) | Python | Lightweight version control system built from scratch |
+
+---
+
+### 🐍 Python — Intermediate Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 📁 Bulk File Renamer | Python | Automated batch file renaming tool with pattern matching |
+| 📝 Blog Scraper Markdown | Python · BeautifulSoup | Scrapes blog content and converts to clean Markdown format |
+| ✅ To-Do List App | Python | Feature-rich task management application |
+| 🎨 Artistic QR Generator | Python | Generates customized artistic QR codes |
+| 🧭 MazePathFinder RatStyle | Python · Backtracking · Matplotlib | Visualizes all maze paths using backtracking algorithm |
+
+---
+
+### 🐍 Python — Beginner Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| ❓ Computer Quiz Game | Python · Tkinter | Interactive computer science quiz with scoring system |
+| 🧮 Calculator | Python · Tkinter | GUI-based scientific calculator |
+| 🔔 Desktop Notifier | Python | Automated desktop notification system |
+| ⌨️ Typing Speed Tester | Python · Tkinter | Measures and tracks typing speed and accuracy |
+| 🎮 Hangman Fruit Edition | Python | Classic Hangman game with a fruit theme twist |
+
+---
+
+### 🎮 Other Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🖱️ Click & Guess Game | Python · Tkinter | Reflex-based button tapping game with scoring |
+| 📊 Fr-Pilot Work Allocation | Python | Work allocation and scheduling automation tool |
+| 🔢 Think Number (1–15) Visual | Python | Visual number guessing game with logical deduction |
+| 📁 Python Project Submission | Python | Collection of structured Python project submissions |
+
+---
+
+## 🛠️ Tech Stack
+
+**Agentic AI & LLM**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=flat-square&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square&logoColor=white)
+![GPT-4o](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-0A0A0A?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-1C1C1C?style=flat-square&logoColor=white)
+
+**Core Engineering**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+
+**Vector & Memory**
+
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Observability**
+
+![LangSmith](https://img.shields.io/badge/LangSmith-1C1C1C?style=flat-square&logoColor=white)
+![Loguru](https://img.shields.io/badge/Loguru-1C1C1C?style=flat-square&logo=python&logoColor=white)
+![DeepEval](https://img.shields.io/badge/DeepEval-1C1C1C?style=flat-square&logoColor=white)
+
+**ML & Computer Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUREKHA1AKULA&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUREKHA1AKULA&layout=compact&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SUREKHA1AKULA&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Surekha1Akula&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surekha1Akula&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 💬 Quote I Build By
 
-<p align="left">
-  <a href="mailto:surekha2393@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/surekha-akula/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Surekha_Akula/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+> *"Don't just learn AI — build systems that act, adapt, and deliver."*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Surekha1Akula&color=6366f1&style=flat-square" alt="Profile Views"/>
 </p>
-
----
-### 💡 Fun Facts
-
-- 📈 Obsessed with personal growth, structure, and planning.
-- 🎨 I enjoy learning through visualizations and mind maps.
-- 🌍 Big believer in “Learning out loud” and helping others on the same path.
-
----
-
-### ✍️ Quote I Live By
-
-> *"Stay consistent, keep learning, and let your growth tell the story."*
-
----
-<!-- GitHub Profile Tags -->
-<!-- Machine Learning | Data Science | AI | Python | NLP | Deep Learning | ML Projects | OpenCV | TensorFlow | Scikit-learn -->
