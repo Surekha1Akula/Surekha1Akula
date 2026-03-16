@@ -16,7 +16,7 @@
 
 ## 🤖 About Me
 
-I build **production-grade agentic AI systems** — autonomous agents that self-heal CI/CD pipelines, process real-time gestures into AI workflows, query databases through natural language, and negotiate between LLMs.
+I build 4 **production-grade agentic AI systems** — autonomous agents that self-heal CI/CD pipelines, process real-time gestures into AI workflows, query databases through natural language, and negotiate between LLMs.
 
 Every system I ship comes with **full test coverage, observability stack, Docker deployment, and measurable outcomes.**
 
